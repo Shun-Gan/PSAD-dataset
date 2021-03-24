@@ -16,9 +16,9 @@ All data of PSAD can be downloaded from:
 
 Stimuli videos (Baidu disk): [https://pan.baidu.com/s/1MN1-xKBGXleo0AlNYP_5Sg](https://pan.baidu.com/s/1MN1-xKBGXleo0AlNYP_5Sg) , password: PSAD
 
-Scene annotations (Google disk): [https://drive.google.com/drive/folders/1WDOAExB4NncgAl2-JLIWMlIymtmn-oXB?usp=sharing](https://drive.google.com/drive/folders/1WDOAExB4NncgAl2-JLIWMlIymtmn-oXB?usp=sharing)
+Scene annotations (Google disk): [https://drive.google.com/file/d/1fUTxLj-XqQJexKzlz6iJWYRIiw0awlPS/view?usp=sharing](https://drive.google.com/file/d/1fUTxLj-XqQJexKzlz6iJWYRIiw0awlPS/view?usp=sharing)
 
-Driver behavior annotations (Google disk):
+Driver behavior annotations (Google disk): [https://drive.google.com/drive/folders/1WDOAExB4NncgAl2-JLIWMlIymtmn-oXB?usp=sharing](https://drive.google.com/drive/folders/1WDOAExB4NncgAl2-JLIWMlIymtmn-oXB?usp=sharing)
 
 
 
