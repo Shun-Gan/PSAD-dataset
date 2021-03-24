@@ -24,7 +24,7 @@ Driver behavior annotations (Google disk): [https://drive.google.com/drive/folde
 
 ## Data content
 
-The stimuli videos consisted of 2724 real-world accidental videos with 1280×720 resolution and 30 fps, screened from [DoTA](https://github.com/MoonBlvd/Detection-of-Traffic-Anomaly) dataset. 
+**Stimuli videos** consisted of 2724 real-world accidental videos with 1280×720 resolution and 30 fps, screened from [DoTA](https://github.com/MoonBlvd/Detection-of-Traffic-Anomaly) dataset. 
 
 **Scene annotations** consisting of anomaly start, collision timestamp, anomaly end, accident type  and object_labels for each stimuli video.
 
