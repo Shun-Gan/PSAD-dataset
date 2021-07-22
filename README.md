@@ -36,4 +36,6 @@ Driver behavior annotations (Google disk): [https://drive.google.com/drive/folde
 ## Data visualization
 WE illustrated the data visualization of some cases from PSAD 
 **p8q77QzOdUs 001954**  
-[![Case01](https://www.youtube.com/watch?v=nUZdKIi9ENA/0.jpg)](https://www.youtube.com/watch?v=nUZdKIi9ENA "Case01")
+[![Case01](https://img.youtube.com/vi/nUZdKIi9ENA/0.jpg)](https://www.youtube.com/watch?v=nUZdKIi9ENA "Case01")
+**Noaudio_c_001_critical_swerve from RHS**  
+[![Case02](https://img.youtube.com/vi/Zc2-Px4yHsE/0.jpg)](https://www.youtube.com/watch?v=Zc2-Px4yHsE "Case02")
