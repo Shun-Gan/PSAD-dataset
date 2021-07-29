@@ -33,6 +33,20 @@ Driver behavior annotations (Google disk): [https://drive.google.com/drive/folde
 
 **Driver behavior annotations** were collected from six experienced drivers (index: from 100 to 105), which consisting of eye fixations, anomaly category, hazard position, trajectory points, response time, and evasive maneuver. 
 
+===========================================================================
+
+Citation:
+If you find our dataset is useful, please cite below paper.
+
+	@InProceedings{Gan_2021_ITSC,
+	author = {Shun Gan, Quan Li, Qingfan Wang, WenTao Chen, Detong Qin and Bingbing Nie},
+	title = {Constructing personalized situation awareness dataset for hazard perception, comprehension, projection, and action of drivers},
+	booktitle = {The IEEE Conference on Intelligent Transportation Systems,
+	year = {2018}
+	}
+	
+===========================================================================
+
 ## Data visualization
 WE illustrated the data visualization of some cases from PSAD 
 
