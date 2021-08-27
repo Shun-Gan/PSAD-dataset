@@ -50,7 +50,7 @@ If you find our dataset is useful, please cite this paper.
 	author = {Shun Gan, Quan Li, Qingfan Wang, WenTao Chen, Detong Qin and Bingbing Nie},
 	title = {Constructing personalized situation awareness dataset for hazard perception, comprehension, projection, and action of drivers},
 	booktitle = {The IEEE Conference on Intelligent Transportation Systems,
-	year = {2018}
+	year = {2021}
 	}
 	
 ======================================================================================
