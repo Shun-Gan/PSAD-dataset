@@ -23,7 +23,8 @@ Scene annotations (Google disk): [https://drive.google.com/file/d/1fUTxLj-XqQJex
 Driver behavior annotations (Google disk): [https://drive.google.com/drive/folders/1WDOAExB4NncgAl2-JLIWMlIymtmn-oXB?usp=sharing](https://drive.google.com/drive/folders/1WDOAExB4NncgAl2-JLIWMlIymtmn-oXB?usp=sharing)
 
 ======================================================================================
-The cleaning data for driver perception-response time on vehicle pre-crash scenario are avaliable at:
+## Temporal annotations after data cleansing
+The data source for driver perception-response time on vehicle pre-crash scenario are avaliable at:
 Temporal_annotations_for_PRT.csv
 =======================================================================================
 
