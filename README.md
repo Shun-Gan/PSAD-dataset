@@ -22,8 +22,10 @@ Scene annotations (Google disk): [https://drive.google.com/file/d/1fUTxLj-XqQJex
 
 Driver behavior annotations (Google disk): [https://drive.google.com/drive/folders/1WDOAExB4NncgAl2-JLIWMlIymtmn-oXB?usp=sharing](https://drive.google.com/drive/folders/1WDOAExB4NncgAl2-JLIWMlIymtmn-oXB?usp=sharing)
 
+======================================================================================
+The cleaning data for driver perception-response time on vehicle pre-crash scenario are avaliable at:
+Temporal_annotations_for_PRT.csv
 =======================================================================================
-
 
 ## Data content
 
@@ -41,7 +43,6 @@ Driver behavior annotations (Google disk): [https://drive.google.com/drive/folde
 **Driver behavior annotations** were collected from six experienced drivers (index: from 100 to 105), which consisting of eye fixations, anomaly category, hazard position, trajectory points, response time, and evasive maneuver. 
 
 ======================================================================================
-
 ## Citation:
 
 If you find our dataset is useful, please cite this paper.
