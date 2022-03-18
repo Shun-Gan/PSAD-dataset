@@ -18,12 +18,15 @@ All contents of PSAD can be downloaded from:
 
 Stimuli videos (Baidu disk): [https://pan.baidu.com/s/1MN1-xKBGXleo0AlNYP_5Sg](https://pan.baidu.com/s/1MN1-xKBGXleo0AlNYP_5Sg) , password: PSAD
 
+For driver attention prediction
+Traffic frames, saliency maps, and fixations maps (Baidu disk): [https://pan.baidu.com/s/182EcpwtuJl7XjXl2P9wY6w](https://pan.baidu.com/s/182EcpwtuJl7XjXl2P9wY6w) , password: z2qe
+
 Scene annotations (Google disk): [https://drive.google.com/file/d/1fUTxLj-XqQJexKzlz6iJWYRIiw0awlPS/view?usp=sharing](https://drive.google.com/file/d/1fUTxLj-XqQJexKzlz6iJWYRIiw0awlPS/view?usp=sharing)
 
 Driver behavior annotations (Google disk): [https://drive.google.com/drive/folders/1WDOAExB4NncgAl2-JLIWMlIymtmn-oXB?usp=sharing](https://drive.google.com/drive/folders/1WDOAExB4NncgAl2-JLIWMlIymtmn-oXB?usp=sharing)
 
 ======================================================================================
-## Temporal annotations after data cleansing
+## Temporal annotations after data cleaning
 The data source for driver perception-response time on vehicle pre-crash scenario are avaliable at
 **Temporal_annotations_for_PRT.csv**
 
@@ -43,6 +46,9 @@ The data source for driver perception-response time on vehicle pre-crash scenari
 ===================================================================================
 
 **Driver behavior annotations** were collected from six experienced drivers (index: from 100 to 105), which consisting of eye fixations, anomaly category, hazard position, trajectory points, response time, and evasive maneuver. 
+
+======================================================================================
+**Traffic frames, saliency maps, and fixations maps** were collected from six experienced drivers (index: from 100 to 105), which consisting of eye fixations, anomaly category, hazard position, trajectory points, response time, and evasive maneuver. 
 
 ======================================================================================
 ## Citation:
