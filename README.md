@@ -18,8 +18,7 @@ All contents of PSAD can be downloaded from:
 
 Stimuli videos (Baidu disk): [https://pan.baidu.com/s/1MN1-xKBGXleo0AlNYP_5Sg](https://pan.baidu.com/s/1MN1-xKBGXleo0AlNYP_5Sg) , password: PSAD
 
-For driver attention prediction
-Traffic frames, saliency maps, and fixations maps (Baidu disk): [https://pan.baidu.com/s/182EcpwtuJl7XjXl2P9wY6w](https://pan.baidu.com/s/182EcpwtuJl7XjXl2P9wY6w) , password: z2qe
+For driver attention prediction, including: traffic frames, saliency maps, and fixations maps (Baidu disk): [https://pan.baidu.com/s/182EcpwtuJl7XjXl2P9wY6w](https://pan.baidu.com/s/182EcpwtuJl7XjXl2P9wY6w) , password: z2qe
 
 Scene annotations (Google disk): [https://drive.google.com/file/d/1fUTxLj-XqQJexKzlz6iJWYRIiw0awlPS/view?usp=sharing](https://drive.google.com/file/d/1fUTxLj-XqQJexKzlz6iJWYRIiw0awlPS/view?usp=sharing)
 
